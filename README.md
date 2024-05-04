@@ -3,6 +3,8 @@ Music Streaming Project - Music Preferences in 2 cities
 
 In this project, you will test a hypothesis related to the musical preferences of two cities. This will be done by analyzing real online music streaming data to test the hypothesis below and compare the behavior of users in these two cities.
 
+*English version will be available soon** 
+
 # **Hypothesis:**
 User activity differs depending on the day of the week and from city to city.
 
