@@ -7,9 +7,8 @@ In this project, you will test a hypothesis related to the musical preferences o
 User activity differs depending on the day of the week and from city to city.
 
 # **Columns:**
-• 'userID' — user identifier
-
-• 'Track' — track title
+1. 'userID' — user identifier
+2. 'Track' — track title
 
 • 'artist' — artist's name
 
