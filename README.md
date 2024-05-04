@@ -8,9 +8,15 @@ User activity differs depending on the day of the week and from city to city.
 
 # **Columns:**
 • 'userID' — user identifier
+
 • 'Track' — track title
+
 • 'artist' — artist's name
+
 • 'genre' - musical genre 
+
 • 'City' — user's city
+
 • 'time' — the exact time the track was played
+
 • 'Day' — day of the week
